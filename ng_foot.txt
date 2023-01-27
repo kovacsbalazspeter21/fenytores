@@ -1,0 +1,77 @@
+<footer>
+    <div class="container">
+        <div class="row">
+            <div class="col-xs-12 text-xs-center">
+                <img class="big-logo img-fluid" src="https://epgcdn.azureedge.net/wp-content/uploads/2021/09/AMCNI_CNE_Horiz_Wht.png" alt="">
+            </div>
+            <div class="col-xs-12">
+                <div class="footer-logos">
+                                                                        <div class="logo">
+                                <a href="http://www.amctvce.com/" target="_blank">
+                                    <img class="img-fluid" src="https://epgcdn.azureedge.net/wp-content/uploads/2017/04/White_AMC_Logo_CMYK.svg">
+                                </a>
+                            </div>
+                                                    <div class="logo">
+                                <a href="http://www.filmcafetv.hu" target="_blank">
+                                    <img class="img-fluid" src="https://epgcdn.azureedge.net/wp-content/uploads/2017/02/FILMCAFE_logo_turkiz_final.svg">
+                                </a>
+                            </div>
+                                                    <div class="logo">
+                                <a href="http://www.filmmaniatv.hu" target="_blank">
+                                    <img class="img-fluid" src="https://epgcdn.azureedge.net/wp-content/uploads/2017/02/FILMMANNIA_Logo_WHITE.svg">
+                                </a>
+                            </div>
+                                                    <div class="logo">
+                                <a href="http://www.tvpaprika.hu/" target="_blank">
+                                    <img class="img-fluid" src="https://epgcdn.azureedge.net/wp-content/uploads/2021/09/TV-Paprika-Logo_FINAL_alpha_small.png">
+                                </a>
+                            </div>
+                                                    <div class="logo">
+                                <a href="http://www.spektrumtv.hu" target="_blank">
+                                    <img class="img-fluid" src="https://epgcdn.azureedge.net/wp-content/uploads/2022/05/SPK_logo_color_2k22-1.svg">
+                                </a>
+                            </div>
+                                                    <div class="logo">
+                                <a href="http://www.spektrumhome.hu" target="_blank">
+                                    <img class="img-fluid" src="https://epgcdn.azureedge.net/wp-content/uploads/2022/05/SPKH_LOGO_2k22_ORANGE-2.svg">
+                                </a>
+                            </div>
+                                                    <div class="logo">
+                                <a href="http://www.minimax.hu/" target="_blank">
+                                    <img class="img-fluid" src="https://epgcdn.azureedge.net/wp-content/uploads/2021/07/Minimax_3d_Logo_Main_Color_small.png">
+                                </a>
+                            </div>
+                                                    <div class="logo">
+                                <a href="http://www.sport1tv.hu/" target="_blank">
+                                    <img class="img-fluid" src="https://epgcdn.azureedge.net/wp-content/uploads/2022/05/sporttv_logo.png">
+                                </a>
+                            </div>
+                                                    <div class="logo">
+                                <a href="http://www.hu.jimjam.tv/" target="_blank">
+                                    <img class="img-fluid" src="https://epgcdn.azureedge.net/wp-content/uploads/2020/01/JimJam_logo_medium_trim.png">
+                                </a>
+                            </div>
+                                                            </div>
+            </div>
+            <div class="col-xs-12 text-xs-center">
+                <p class="copyright">Copyright © AMC Networks Central Europe. Minden jog fenntartva.</p>
+            </div>
+            <div class="col-xs-12 text-xs-center">
+                <ul class="legal-docs">
+                                            <li><a target="_blank" href="http://spektrumtv.hu/spektrum/spektrum-felhasznalasi-feltetelek">Felhasználási feltételek</a></li>
+                    
+                    
+                                            <li class="separator hidden-xs-down">|</li>
+                        <li>
+                            <a target="_blank" href="http://spektrumtv.hu/spektrum/spektrum-impresszum">Impresszum</a>
+                        </li>
+                    
+                                            <li class="separator hidden-xs-down">|</li>
+                        <li><a href="#" data-toggle="modal" data-target="#mediaModal">Médiaajánlat</a></li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+    
+    
+</footer>
